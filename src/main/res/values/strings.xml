@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Coursework_01</string>
+
+    <string-array name="cars">
+        <item>BMW</item>
+        <item>Mercedes Benz</item>
+        <item>Ferrari</item>
+        <item>Bugatti</item>
+        <item>Ford</item>
+        <item>Lamborghini</item>
+        <item>SSC Tuatara</item>
+        <item>Porsche</item>
+        <item>Mclearn</item>
+        <item>Jaguar</item>
+        <item>Bugatti Chiron</item>
+        <item>Dodge Viper</item>
+        <item>Dodge Challenger</item>
+        <item>LaFerrari</item>
+        <item>DS-E-Tense</item>
+        <item>Acura NSX</item>
+        <item>Volkswagen</item>
+        <item>Premio</item>
+        <item>Maserati Alfieri</item>
+        <item>Ford GT</item>
+        <item>Audi</item>
+        <item>Land Rover</item>
+        <item>Camero</item>
+        <item>Apex AP</item>
+        <item>Rimac</item>
+        <item>Automobile Battista</item>
+        <item>Artega Scalo</item>
+        <item>Mazda Furai</item>
+        <item>Mitsubishi Lancer</item>
+    </string-array>
+
+    <string-array name="cars_idenify_names">
+        <item>BMW</item>
+        <item>Mercedes Benz</item>
+        <item>Ferrari</item>
+        <item>Bugatti</item>
+        <item>Ford</item>
+        <item>Lamborghini</item>
+        <item>SSC Tuatara</item>
+        <item>Porsche</item>
+        <item>Mclearn</item>
+        <item>Jaguar</item>
+        <item>Bugatti Chiron</item>
+        <item>Dodge Viper</item>
+        <item>Dodge Challenger</item>
+        <item>LaFerrari</item>
+        <item>DS-E-Tense</item>
+        <item>Acura NSX</item>
+        <item>Volkswagen</item>
+        <item>Premio</item>
+        <item>Maserati Alfieri</item>
+        <item>Ford GT</item>
+        <item>Audi</item>
+        <item>Land Rover</item>
+        <item>Camero</item>
+        <item>Apex AP</item>
+        <item>Rimac</item>
+        <item>Automobile Battista</item>
+        <item>Artega Scalo</item>
+        <item>Mazda Furai</item>
+        <item>Mitsubishi Lancer</item>
+    </string-array>
+
+    <string-array name="cars_prefix">
+        <item>BMW</item>
+        <item>Mercedes Benz</item>
+        <item>Ferrari</item>
+        <item>Bugatti</item>
+        <item>Ford</item>
+        <item>Lamborghini</item>
+        <item>SSC Tuatara</item>
+        <item>Porsche</item>
+        <item>Mclearn</item>
+        <item>Jaguar</item>
+        <item>Bugatti Chiron</item>
+        <item>Dodge Viper</item>
+        <item>Dodge Challenger</item>
+        <item>LaFerrari</item>
+        <item>DS-E-Tense</item>
+        <item>Acura NSX</item>
+        <item>Volkswagen</item>
+        <item>Premio</item>
+        <item>Maserati Alfieri</item>
+        <item>Ford GT</item>
+        <item>Audi</item>
+        <item>Land Rover</item>
+        <item>Camero</item>
+        <item>Apex AP</item>
+        <item>Rimac</item>
+        <item>Automobile Battista</item>
+        <item>Artega Scalo</item>
+        <item>Mazda Furai</item>
+        <item>Mitsubishi Lancer</item>
+    </string-array>
+
+</resources>
